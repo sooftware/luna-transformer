@@ -11,8 +11,6 @@
   
 ***
   
-![image](https://user-images.githubusercontent.com/42150335/127543497-0b4a5513-4ac6-48c7-9595-d38c880ad8ed.png)
-
   
 The quadratic computational and memory complexities of the Transformer’s attention mechanism have limited its scalability for modeling long sequences. In
 this paper, we propose Luna, a linear unified nested attention mechanism that
@@ -27,6 +25,8 @@ masked language modeling for large-scale pretraining. Competitive or even better
 experimental results demonstrate both the effectiveness and efficiency of Luna
 compared to a variety of strong baseline methods including the full-rank attention
 and other efficient sparse and dense attention methods
+
+![image](https://user-images.githubusercontent.com/42150335/127543497-0b4a5513-4ac6-48c7-9595-d38c880ad8ed.png)
 
 ## Installation
 This project recommends Python 3.7 or higher.
