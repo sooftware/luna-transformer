@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Unofficial PyTorch implementation of [Luna: Linear Unified Nested Attention](https://arxiv.org/pdf/2106.01540.pdf)**
+**Unofficial PyTorch implementation of [Luna: Linear Unified Nested Attention](https://arxiv.org/abs/2106.01540.pdf)**
 
   
 </div>
