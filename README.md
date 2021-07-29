@@ -41,6 +41,7 @@ following commands:
 pip install -e .
 ```
 
+## Usage
 
 ```python
 import torch
