@@ -55,7 +55,7 @@ DUMMY_INPUTS = torch.LongTensor([
     [2, 3, 3, 3, 3, 3, 2, 3, 2],
     [2, 3, 3, 3, 3, 3, 2, 2, 0],
 ])
-DUMMY_INPUT_LENGTHS = torch.IntTensor([9, 8, 7])
+DUMMY_INPUT_LENGTHS = torch.LongTensor([9, 8, 7])
 
 model = LunaTransformerEncoder(vocab_size=4, d_model=512, num_layers=6,
                                num_attention_heads=8, project_embedding_length=32,
